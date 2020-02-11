@@ -1,0 +1,23 @@
+body {
+    font-family: 'Console';
+}
+
+.btn-primary {
+    padding: 5px 30px;
+}
+
+.input-number {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    max-width: 150px;
+}
+
+.input-number, .btn-primary {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.write-here{
+    margin-top: 40px;
+}
